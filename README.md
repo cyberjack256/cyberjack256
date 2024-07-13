@@ -15,7 +15,7 @@ I'm Jack, a passionate Cybersecurity Engineer and Instructor with over 12 years 
 - **Cloud Computing**: AWS, Azure
 
 ### 📘 Featured Repositories
-- [**LOG 200 Ingest Applicstion**](https://github.com/cyberjack256/weather): Custom weather data generation app for ingesting interesting data sets into Falcon Logscale.
+- [**LOG 200 Ingest Application**](https://github.com/cyberjack256/weather): Custom weather data generation app for ingesting interesting data sets into Falcon Logscale.
 - [**regular_expressions**](https://github.com/cyberjack256/regular_expressions): Regular Expressions for Triage - A Primer for Incident Responders.
 - [**packet-analysis**](https://github.com/cyberjack256/packet-analysis): Various resources for packet analysis.
 ### 🌱 Current Projects
