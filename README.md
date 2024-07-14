@@ -26,6 +26,7 @@ I'm Jack, a passionate Cybersecurity Engineer and Instructor with over 12 years 
 - **LinkedIn**: [linkedin.com/in/cyberjack256](https://www.linkedin.com/in/cyberjack256)
 - **Email**: [cyberjack256@gmail.com](mailto:jackturner@cybermail.com)
 
-### 🎙️ Podcasts and 
+### 🎙️ Podcasts and Consultation
+
 
 Let's connect and collaborate on exciting projects! 🚀
