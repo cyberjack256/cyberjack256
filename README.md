@@ -15,11 +15,15 @@ I'm Jack, a passionate Cybersecurity Engineer and Instructor with over 12 years 
 - **Cloud Computing**: AWS, Azure
 
 ### 📘 Featured Repositories
-- [**LOG 200 Ingest Application**](https://github.com/cyberjack256/weather): Custom weather data generation app for ingesting interesting data sets into Falcon Logscale.
 - [**regular_expressions**](https://github.com/cyberjack256/regular_expressions): Regular Expressions for Triage - A Primer for Incident Responders.
 - [**packet-analysis**](https://github.com/cyberjack256/packet-analysis): Various resources for packet analysis.
-### 🌱 Current Projects
-- **Falcon LogScale Integration**: Developing tools for faster data ingestion and analysis.
+### 🌱 Current Datasets
+- **NYC OpenData Traffic Analysis**:
+  - [NYC Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
+  - [NYC Vehicles](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4/about_data)
+  - [NYC Persons](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu/about_data)
+- **eBird Cornell Lab of Ornithology**
+  - [eBird](https://ebird.org/home)
 - **Advanced Incident Response Techniques**: Creating comprehensive guides and tutorials.
 
 ### 📫 Connect with Me
